@@ -1,4 +1,4 @@
-for fizzbuzz in range(100):
+for fizzbuzz in range(101):
 
     # number divisible by 3, print 'Fizz'
     # in place of the number
